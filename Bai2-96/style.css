@@ -1,0 +1,27 @@
+@font-face{
+	font-family:jack;
+	src:url(black_jack.ttf);
+}
+		
+h1{font-weight:lighter;}
+
+h2:nth-child(2){
+	font-family:jack;
+	font-size:14pt;
+	font-style:italic;
+	text-transform:uppercase;
+}
+
+h2:nth-child(4){
+	font-family:ariel;
+	font-size:16pt;
+	text-transform:capitalize;
+	font-weight:lighter;
+}
+
+p{font-family:tahoma;}
+
+p:last-child{
+	font-style:italic;
+	text-align:right;
+}
