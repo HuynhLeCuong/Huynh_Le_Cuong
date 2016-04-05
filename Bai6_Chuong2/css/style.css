@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+div{
+	width: 90%;
+	padding: 1em;
+	margin:auto;
+	margin-top:2em;
+	border: 4px solid lightblue;
+}
+
+img{
+	display:inline;
+	border: 2px solid tomato;
+	width: 24%;
+	height: 100%;
+	opacity: 0.4;
+}
+
+img:hover{opacity: 1;}
+
+p{
+	text-align: center;
+	color: red;
+}
